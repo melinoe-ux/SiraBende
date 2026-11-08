@@ -1,0 +1,9 @@
+Package: com.arda.sirabende
+Name: SiraBende
+Version: 0.2.0
+Architecture: iphoneos-arm
+Description: Apple Music style swipe actions (Play Next / Add to Queue) for the iOS 6 Music app
+Maintainer: Arda
+Author: Arda
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 6.0)
